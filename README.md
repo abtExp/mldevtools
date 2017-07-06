@@ -1,8 +1,8 @@
 # mldevtools
 Suite of Machine Learning testing and development packages
 
-* vecto (ndarray operations lib)
-* Jbrain (ml library)
-* freeze (state save)
-* parse (image parser)
-* plotlib (graph plotting)
+* <a href='https://github.com/abtexp/vecto'>vecto</a> (ndarray operations lib) :construction:
+* <a href='https://github.com/abtexp/JBrain'>Jbrain</a> (ml library):construction:
+* freeze (state save) :construction:
+* parse (image parser):construction:
+* plotlib (graph plotting):construction:
