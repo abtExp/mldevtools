@@ -19,6 +19,8 @@ Suite of Machine Learning testing and development packages
 * <a href='https://github.com/abtexp/parse'>parse</a> :construction: (coming soon)
 
 ## State Save :
+* <a href='https://github.com/jprichardson/node-jsonfile'>node-jsonfile</a> by @jprichardson
+<br /><br />
  *My Project*
 * freeze (state save) :construction:
 
