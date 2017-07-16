@@ -20,9 +20,6 @@ Suite of Machine Learning testing and development packages
 
 ## State Save :
 * <a href='https://github.com/jprichardson/node-jsonfile'>node-jsonfile</a> by @jprichardson
-<br /><br />
- *My Project*
-* freeze (state save) :construction:
 
 ## Graph Plotting :
 * <a href='https://github.com/plotly/plotly.js'>plotly.js</a> (open sourced library powering plotly) by @plotly
